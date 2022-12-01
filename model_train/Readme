@@ -1,0 +1,5 @@
+spacy +  spacy-transformer
+used google colab
+final model is ~400mo
+https://newscatcherapi.com/blog/train-custom-named-entity-recognition-ner-model-with-spacy-v3
+if down : https://web.archive.org/web/20220519221817/https://newscatcherapi.com/blog/train-custom-named-entity-recognition-ner-model-with-spacy-v3
